@@ -1,11 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/andersonrubiojuca/Perfil/main/%C3%ADndice.png)
 
 ## About Me
-Full-Stack Developer² with knowledge of different languages.
-* Back-End: Java (SE, EE, SpringMVC, Spring-boot, Junit4 e 5, JSP, JPA, Hibernate, PHP (Vanilla, Wordpress, Laravel and Lumen), REST, RESTful, SOAP, Microservices and GIT;
-* Front-End: HTML, CSS, Bootstrap, JS, JQUERY, TS and Angular 2+;
-* Mobile: Java and Kotlin(MVVM);
-* SQL-based databases
+* Dev Kotlin Movile
+* Information systems: Bachelor Degree
 
 ### Look at my projects!
 
